@@ -56,7 +56,7 @@ export default function SmallWithSocial() {
         spacing={4}
         justify={{ base: 'center', md: 'space-between' }}
         align={{ base: 'center', md: 'center' }}>
-        <Text>© 2022 Griphcode. All rights reserved</Text>
+        <Text>© 2024 Griphcode. All rights reserved</Text>
         <Stack direction={'row'} spacing={6}>
           <SocialButton label={'Github'} href={'https://github.com/griphcode'}>
             <Github />
