@@ -24,7 +24,7 @@ export default function Home() {
        
       
 
-       <h3>「I like to learn about text stuff」</h3>
+       <h3>「I like to learn about tech stuff」</h3>
         
 
         <div className={styles.ctas}>
